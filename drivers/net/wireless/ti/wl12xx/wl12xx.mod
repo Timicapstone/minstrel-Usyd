@@ -1,0 +1,2 @@
+/home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/main.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/cmd.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/acx.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/debugfs.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/scan.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/ti/wl12xx/event.o
+

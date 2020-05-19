@@ -1,0 +1,2 @@
+/home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/mediatek/mt76/mt76x2/eeprom.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/mediatek/mt76/mt76x2/mac.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/mediatek/mt76/mt76x2/init.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/mediatek/mt76/mt76x2/phy.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/mediatek/mt76/mt76x2/mcu.o
+

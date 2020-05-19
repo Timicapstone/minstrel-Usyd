@@ -1,0 +1,2 @@
+/home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/intel/ipw2x00/libipw_module.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/intel/ipw2x00/libipw_tx.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/intel/ipw2x00/libipw_rx.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/intel/ipw2x00/libipw_wx.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/intel/ipw2x00/libipw_geo.o
+

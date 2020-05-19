@@ -1,0 +1,2 @@
+/home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/quantenna/qtnfmac/shm_ipc.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/quantenna/qtnfmac/pcie/pcie.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/quantenna/qtnfmac/pcie/pearl_pcie.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/quantenna/qtnfmac/pcie/topaz_pcie.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/quantenna/qtnfmac/debug.o
+

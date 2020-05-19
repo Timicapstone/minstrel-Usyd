@@ -1,0 +1,2 @@
+/home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_core.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8192e.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8723b.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8723a.o /home/bigbillzub/backports-5.7-rc3-1/drivers/net/wireless/realtek/rtl8xxxu/rtl8xxxu_8192c.o
+
